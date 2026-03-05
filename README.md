@@ -1,7 +1,5 @@
-<!-- Matrix rain header -->
 <div align="center">
-
-```
+  
 ╔═══════════════════════════════════════════════════════════════╗
 ║  ██████╗ ██╗   ██╗██╗    ██╗  ██╗   ██╗ █████╗ ██╗  ██╗     ║
 ║ ██╔════╝ ██║   ██║██║    ██║  ██║   ██║██╔══██╗██║ ██╔╝     ║
@@ -10,7 +8,6 @@
 ║ ╚██████╔╝╚██████╔╝██║    ╚═╝ ╚██████╔╝██║  ██║██║  ██╗     ║
 ║  ╚═════╝  ╚═════╝ ╚═╝        ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -18,14 +15,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%90;Blue+Team+%7C+Linux+%7C+Networking;Google+Certified+%E2%9C%94;ADS+%40+UNICID;Hack+the+planet+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
----
-
-```bash
 ┌──(gui㉿kali)-[~]
 └─$ whoami
-```
-
-```
 ╭──────────────────────────────────────────────────────────╮
 │                   IDENTITY MATRIX                        │
 ├──────────────────┬───────────────────────────────────────┤
@@ -34,25 +25,15 @@
 │  LOCATION        │  Brazil 🇧🇷                          │
 │  STATUS          │  [ ACTIVE ] ███████████░░  85%        │
 ╰──────────────────┴───────────────────────────────────────╯
-```
 
-```bash
 ┌──(gui㉿kali)-[~]
 └─$ cat /etc/credentials
-```
-
-```
 [CERT]     Google Cybersecurity Professional Certificate ✓
 [EDU]      ADS @ UNICID — in progress...
 [FOCUS]    Blue Team Operations
 [OS]       Linux [ PRIMARY ]
-```
 
----
-
-## `> scan --targets skills`
-
-```
+> scan --targets skills
 [*] Iniciando reconhecimento...
 [*] Alvos encontrados:
 
@@ -63,49 +44,27 @@
 [+] SECURITY    █████████████████░░░  85%  SOC | SIEM | Logs
 
 [*] Scan completo. Nenhuma vulnerabilidade crítica detectada.
-```
 
----
-
-## `> uname -a`
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![Google](https://img.shields.io/badge/Google_Certified-000000?style=for-the-badge&logo=google&logoColor=00FF41)
-
+> uname -a
+<div align="left">
+  <img src="https://img.shields.io/badge/Kernel-Linux%206.x-00FF41?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Distro-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Zsh%20%26%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Splunk-blue?style=flat-square" />
 </div>
 
----
-
-## `> netstat --connections`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com)
-
+> netstat --connections
+<div align="left">
+  <a href="https://linkedin.com/in/SEU_USER_AQUI"><img src="https://img.shields.io/badge/Established-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Listening-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
----
-
-## `> cat /proc/activity`
-
+> cat /proc/activity
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeCMartini&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCMartini&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41)](https://github.com/GuilhermeCMartini)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCMartini&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCMartini&layout=compact&theme=matrix" />
 </div>
 
----
-
-```bash
 ┌──(gui㉿kali)-[~]
 └─$ echo "Learning never exhausts the mind."
 
@@ -113,7 +72,6 @@
 
 ┌──(gui㉿kali)-[~]
 └─$ █
-```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeCMartini&color=00ff41&style=for-the-badge&label=VISITORS" />
