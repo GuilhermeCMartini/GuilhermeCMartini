@@ -6,11 +6,15 @@
 
 <div align="center">
 
-rsecurity Student  ·  Blue Team  ·  Brazil 🇧🇷
+# `> GUI`
+
+```
+Cybersecurity Student  ·  Blue Team  ·  Brazil 🇧🇷
 ```
 
 [![LinkedIn](https://img.shields.io/badge/─_LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/guilherme-caires-martini-8020521a3/)
 [![TryHackMe](https://img.shields.io/badge/─_TryHackMe-0d0d0d?style=flat-square&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/gcairesmartini)
+[![HackTheBox](https://img.shields.io/badge/─_HackTheBox-0d0d0d?style=flat-square&logo=hackthebox&logoColor=00FF41)](https://app.hackthebox.com/profile/gcairesmartini)
 
 </div>
 
@@ -28,6 +32,20 @@ edu      →  ADS @ UNICID
 focus    →  Blue Team | Linux | Networking | Security
 os       →  Linux
 ```
+
+---
+
+```bash
+$ cat certs.txt
+```
+
+<div align="center">
+
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-0d0d0d?style=for-the-badge&logo=google&logoColor=00FF41)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/gcairesmartini.png)](https://tryhackme.com/p/gcairesmartini)
+
+</div>
 
 ---
 
@@ -56,6 +74,7 @@ $ ls tools/
 ![Kali](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=flat-square&logo=kalilinux&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=flat-square&logo=wireshark&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=flat-square&logo=gnubash&logoColor=00FF41)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-0d0d0d?style=flat-square&logo=hackthebox&logoColor=00FF41)
 
 </div>
 
@@ -77,9 +96,9 @@ $ git log --oneline
 
 <div align="center">
 
-```
+\`\`\`
 0x47 0x55 0x49 · still learning · never stopping
-```
+\`\`\`
 
 ![visitors](https://komarev.com/ghpvc/?username=GuilhermeCMartini&color=00ff41&style=flat-square&label=visitors)
 
