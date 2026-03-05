@@ -6,12 +6,6 @@
 
 <div align="center">
 
-# `> GUI`
-
-```
-Cybersecurity Student  ·  Blue Team  ·  Brazil 🇧🇷
-```
-
 [![LinkedIn](https://img.shields.io/badge/─_LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/guilherme-caires-martini-8020521a3/)
 [![TryHackMe](https://img.shields.io/badge/─_TryHackMe-0d0d0d?style=flat-square&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/gcairesmartini)
 [![HackTheBox](https://img.shields.io/badge/─_HackTheBox-0d0d0d?style=flat-square&logo=hackthebox&logoColor=00FF41)](https://app.hackthebox.com/profile/gcairesmartini)
