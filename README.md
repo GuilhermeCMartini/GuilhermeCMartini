@@ -97,9 +97,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCMartini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeCMartini&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCMartini&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCMartini&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41)](https://github.com/GuilhermeCMartini)
 
 </div>
 
