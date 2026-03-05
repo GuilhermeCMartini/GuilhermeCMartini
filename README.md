@@ -6,10 +6,7 @@
 
 <div align="center">
 
-# `> GUI`
-
-```
-Cybersecurity Student  ·  Blue Team  ·  Brazil 🇧🇷
+rsecurity Student  ·  Blue Team  ·  Brazil 🇧🇷
 ```
 
 [![LinkedIn](https://img.shields.io/badge/─_LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/guilherme-caires-martini-8020521a3/)
