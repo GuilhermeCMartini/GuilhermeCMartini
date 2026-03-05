@@ -39,11 +39,17 @@ os       →  Linux
 $ cat certs.txt
 ```
 
+```
+[✓] Google Cybersecurity Professional Certificate  —  Google / Coursera
+[✓] Formação em Segurança                          —  Alura
+[✓] Blue Team Junior Analyst                       —  Security Blue Team
+```
+
 <div align="center">
 
-[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-0d0d0d?style=for-the-badge&logo=google&logoColor=00FF41)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/gcairesmartini.png)](https://tryhackme.com/p/gcairesmartini)
+[![Google](https://img.shields.io/badge/Google_Cybersecurity_Professional-0d0d0d?style=for-the-badge&logo=google&logoColor=00FF41)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+[![Alura](https://img.shields.io/badge/Alura-0d0d0d?style=for-the-badge&logoColor=00FF41)](https://www.alura.com.br)
+[![Security Blue Team](https://img.shields.io/badge/Security_Blue_Team-0d0d0d?style=for-the-badge&logoColor=00FF41)](https://www.securityblue.team)
 
 </div>
 
