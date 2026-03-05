@@ -1,27 +1,21 @@
 <!-- Matrix rain header -->
 <div align="center">
 
-```text
+```
 ╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗ ██╗   ██╗██╗    ██╗  ██╗   ██╗ █████╗ ██╗  ██╗       ║
-║  ██╔════╝ ██║   ██║██║    ██║  ██║   ██║██╔══██╗██║ ██╔╝       ║
-║  ██║  ███╗██║   ██║██║    ██║  ██║   ██║███████║█████╔╝        ║
-║  ██║   ██║██║   ██║██║    ╚██╗ ██║   ██║██╔══██║██╔═██╗        ║
-║  ╚██████╔╝╚██████╔╝██║     ╚████╔╝   ██║██║  ██║██║  ██╗       ║
-║   ╚═════╝  ╚═════╝ ╚═╝      ╚═══╝    ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ║
-║                                                               ║
-║            Cybersecurity Student | Blue Team                  ║
-║            Google Cybersecurity Certified                     ║
-║            ADS @ UNICID                                       ║
-║                                                               ║
+║  ██████╗ ██╗   ██╗██╗    ██╗  ██╗   ██╗ █████╗ ██╗  ██╗     ║
+║ ██╔════╝ ██║   ██║██║    ██║  ██║   ██║██╔══██╗██║ ██╔╝     ║
+║ ██║  ███╗██║   ██║██║    ██║  ██║   ██║███████║█████╔╝      ║
+║ ██║   ██║██║   ██║██║    ╚██╗ ██║   ██║██╔══██║██╔═██╗      ║
+║ ╚██████╔╝╚██████╔╝██║    ╚═╝ ╚██████╔╝██║  ██║██║  ██╗     ║
+║  ╚═════╝  ╚═════╝ ╚═╝        ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%90;Blue+Team+%7C+Linux+%7C+Networking;Google+Certified+%E2%9C%94;ADS+%40+UNICID;Hack+the+planet+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%90;Blue+Team+%7C+Linux+%7C+Networking;Google+Certified+%E2%9C%94;ADS+%40+UNICID;Hack+the+planet+%F0%9F%8C%90" alt="" />
 </div>
 
 ---
