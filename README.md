@@ -97,9 +97,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCMartini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCMartini&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 ```bash
 ┌──(gui㉿kali)-[~]
-└─$ echo "Learning never exhausts the mind." 
+└─$ echo "Learning never exhausts the mind."
 
 "Learning never exhausts the mind."
 
@@ -116,5 +116,5 @@
 ```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=for-the-badge&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeCMartini&color=00ff41&style=for-the-badge&label=VISITORS" />
 </div>
